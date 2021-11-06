@@ -1,11 +1,19 @@
-# Hi there 👋
+## About
 
-I'm **Aumy**, a Japanese🇯🇵 senior high student learning programming.
-I'm interested in web frontend development, e.g. [React], [Gatsby], [TypeScript], [Elm], and more!
+- 📛 Aumy / おーみー
+  - Pronunced like “OH-MEE”
+- 🏫 Senior-high student (12th grade)
+- 👨‍💻 Hobbyist programmer
+- ❤️ Programming languages and Web technologies
+  - JavaScript/TypeScript, Rust, Haskell, Nix
+- 💬 Japanese (natively), English (a little)
 
-[react]: https://reactjs.org
-[gatsby]: https://gatsbyjs.org
-[typescript]: https://typescriptlang.org
-[elm]: https://elm-lang.org
+## Contact
 
+- Twitter: [aumy_f](https://twitter.com/aumy_f)
 
+## Most Used Languages
+
+https://github.com/anuraghazra/github-readme-stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aumyf&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
