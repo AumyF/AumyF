@@ -2,7 +2,7 @@
 
 - 📛 Aumy / おーみー
   - Pronunced like “OH-MEE”
-- 🏫 Senior-high student (12th grade)
+- 🏫 High-school graduate
 - 👨‍💻 Hobbyist programmer
 - ❤️ Programming languages and Web technologies
   - JavaScript/TypeScript, Rust, Haskell, Nix
