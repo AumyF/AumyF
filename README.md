@@ -14,6 +14,6 @@
 
 ## Most Used Languages
 
-https://github.com/anuraghazra/github-readme-stats
+[https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aumyf&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aumyf&layout=compact&langs_count=10&exclude_repo=tree-sitter-koka)
