@@ -1,19 +1,23 @@
-## About
+```toml
+name = "Aumy"
+citizenship = "Japan"
 
-- 📛 Aumy / おーみー
-  - Pronunced like “OH-MEE”
-- 🏫 High-school graduate
-- 👨‍💻 Hobbyist programmer
-- ❤️ Programming languages and Web technologies
-  - JavaScript/TypeScript, Rust, Haskell, Nix
-- 💬 Japanese (natively), English (a little)
+[computer_languages]
+like = ["TypeScript", "Rust", "OCaml", "F#", "Nix"]
+want_to_learn = ["SATySFi", "Koka", "Scala", "Haskell"]
 
-## Contact
+[natural_languages]
+native = ["ja-JP"]
+learning = ["en"]
+want_to_learn = ["zh"]
 
-- Twitter: [aumy_f](https://twitter.com/aumy_f)
+[tools]
+editor = "Neovim" # trying to migrate to Helix
+browser = "Firefox"
+terminal = "zsh"
 
-## Most Used Languages
-
-[https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
+[contact]
+twitter = "aumy_f"
+```
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aumyf&layout=compact&langs_count=10&exclude_repo=tree-sitter-koka)
