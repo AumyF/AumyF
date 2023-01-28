@@ -20,4 +20,4 @@ terminal = "zsh"
 twitter = "aumy_f"
 ```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aumyf&layout=compact&langs_count=10&exclude_repo=tree-sitter-koka)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aumyf&layout=compact&langs_count=10&exclude_repo=tree-sitter-koka&hide=nix)
