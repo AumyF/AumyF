@@ -31,5 +31,4 @@ export default defineProfile({
 
 ```
 
-
-![Top Langs](https://aumy-github-readme-stats.vercel.app/api/top-langs/?username=AumyF&layout=compact&langs_count=10&exclude_repo=tree-sitter-koka&hide=nix)
+<img src="https://aumy-github-readme-stats.vercel.app/api/top-langs/?username=AumyF&layout=compact&langs_count=10&exclude_repo=tree-sitter-koka&hide=nix" height="215" alt="Top Languages" />
